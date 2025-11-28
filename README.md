@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Projeto de Acessibilidade — Ariel</title>
+
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -39,6 +39,6 @@
 </main>
 
 
-<script src="script.js"></script>
+
 </body>
 </html>
